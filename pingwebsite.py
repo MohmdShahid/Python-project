@@ -7,3 +7,4 @@ print(text)
 print("Enter an Ip")
 i = input()
 subprocess.call("ipconfig")
+
