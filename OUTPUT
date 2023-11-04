@@ -1,0 +1,49 @@
+# Python-project
+  ____           _____         _  _   ____  ____  __  __   _  _   
+ / ___|_ __ __ _|__  /   _   _| || |_|  _ \/ ___||  \/  |_| || |_ 
+| |   | '__/ _` | / / | | | |_  ..  _| |_) \___ \| |\/| |_  ..  _|
+| |___| | | (_| |/ /| |_| | |_      _|  _ < ___) | |  | |_      _|
+ \____|_|  \__,_/____\__, |   |_||_| |_| \_\____/|_|  |_| |_||_|  
+                     |___/
+
+Enter an Ip
+10.0.2.15
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::15a5:755c:72a4:a11a%19
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : mshome.net
+   Link-local IPv6 Address . . . . . : fe80::e446:ab46:f18e:a34a%18
+   IPv4 Address. . . . . . . . . . . : 192.168.137.219
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.137.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
