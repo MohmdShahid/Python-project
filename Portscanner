@@ -1,0 +1,17 @@
+import socket
+
+s= socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+host = "192.168.134.219"
+port = 223
+
+def portScanner(port):
+    if s.connect_ex((host,port)):
+        print("the port is clsoed")
+    else:
+        print("the port is open")
+    
+portScanner(port)
+
+
+##OUTPUT it will show on this port and host address the port is open and closed
