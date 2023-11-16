@@ -12,7 +12,6 @@ def encrypt(message, shift):
             encrypted_message += char
 
     return encrypted_message
-
 # Original message
 message_to_encrypt = "how are you and what are you doing "
 
@@ -31,4 +30,4 @@ print(f"Encrypted message: {encrypted_message}")
 
 
 ############output Original message: how are you and what are you doing
-###################Encrypted message: krz duh brx dqg zkdw duh brx grlqj
+###################Encrypted message: krz duh brx dqg zkdw duh brx grlqj 
