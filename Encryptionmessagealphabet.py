@@ -23,7 +23,7 @@ encrypted_message = encrypt(message_to_encrypt, shift_amount)
 
 # Print results
 print(f"Original message: {message_to_encrypt}")
-print(f"Encrypted message: {encrypted_message}")
+print(f"Encrypted message: {encrypted_message}") 
 
 
 
