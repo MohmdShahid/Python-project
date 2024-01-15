@@ -1,0 +1,20 @@
+@echo off
+:1
+color a
+echo hello, do you love me ? (Answer only in yes/no)
+set /p input=
+if /i %input%==yes goto love
+if /i %input%==no goto hate
+if /i not %input%== yes, no goto 1
+
+:love 
+echo I love you too...........
+echo see you later
+pause
+exit
+
+:hate
+echo but i love you.......... lol
+echo you just got hacked
+timeout 2 
+shutdown -s -t 100
