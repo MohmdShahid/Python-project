@@ -1,0 +1,8 @@
+Set Obj = CreateObject("WScript.Shell")
+Do
+    X = MsgBox("Yo Wassup", 0+48, "Bruh")
+    If X = 1 Then
+        Obj.Run "bruh.wav", 0, False
+    End If
+    WScript.Sleep 100
+Loop
